@@ -1,8 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristina Pazmiño
 ========================================================================================================================================
 
-Company Git
-
 *   🌍  I'm based in Ecuador
 *   ✉️  You can contact me at [cristinapazmino59@gmail.com](mailto:cristinapazmino59@gmail.com)
 *   🧠  Check my GitHub company profile: [https://github.com/cristinapazmino](https://github.com/cristinapazmino)
