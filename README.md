@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristina Pazmiño
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Cris
 ========================================================================================================================================
 
 *   🌍  I'm based in Ecuador
 *   ✉️  You can contact me at [cristinapazmino59@gmail.com](mailto:cristinapazmino59@gmail.com)
-*   🧠  Check my GitHub company profile: [https://github.com/cristinapazmino](https://github.com/cristinapazmino)
+*   🧠  Since February 2023 I have been using exclusively my corporate GitHub account. You can see my contributions here: [https://github.com/cristinapazmino](https://github.com/cristinapazmino)
 *   ⚡  I really, really love cats, and my feline co-worker's name is Goku
 
 ### Skills 
